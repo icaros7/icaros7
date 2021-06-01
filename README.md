@@ -1,42 +1,18 @@
 ## Who is Homin Rhee?
 **Name**: 이호민 / Homin Rhee / 李昊珉 (a.k.a iCAROS7, hominlab)   
 **Job**: A student in department of computer science and engineering at Sungkonghoe Univ from 2017 years   
-**Location**: Seoul, Republic of Korea
+**Location**: Seoul, Republic of Korea   
 **Site**: https://minnote.net
 
 ## What is his favorite thing?
 > **ARM-based SoC** & Linux!
 
 ## SKill Group
+[![Homin's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaros7)](https://github.com/anuraghazra/github-readme-stats)
+
 <table border="0">
-	<tr>
+  <tr>
     <td>
-      <table border="0">
-        <th>Group</th>
-        <th>Description</th>
-        <tr>
-          <td>5</td>
-          <td>It's lie</td>
-        </tr>
-        <tr>
-          <td>4</td>
-          <td>Can participate in the project</td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td>Just hobby</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>In learning</td>
-        </tr>
-        <tr>
-          <td>1</td>
-          <td>Wow, I can print `Hello world`!</td>
-        </tr>
-      </table>
-    </td>
-	  <td>
       <table border="0">
         <th>Language</th>
         <th>Group</th>
@@ -93,7 +69,31 @@
         </tr>
       </table>
     </td>
+     <td>
+       <table border="0">
+        <th>Group</th>
+        <th>Description</th>
+        <tr>
+          <td>5</td>
+          <td>It's lie</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Can participate in the project</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Just hobby</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>In learning</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Wow, I can print `Hello world`!</td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
-  
-[![Homin's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaros7)](https://github.com/anuraghazra/github-readme-stats)
