@@ -8,26 +8,92 @@
 > **ARM-based SoC** & Linux!
 
 ## SKill Group
-|Group|Description|
-|:---:|:---|
-|`5`|It's lie|
-|`4`|I will be able to participate in the project|
-|`3`|Just hobby
-|`2`|In learning
-|`1`|Wow, I can print `Hello world`!
-  
-|Language|Group|Etc|
-|:---:|:---:|:---|
-|C|`2`|Standard C, Based on linux kernel|
-|C++|`2`|On my school|
-|C# .Net|`3`||
-|VB .Net|`3`||
-|VB|`3`|The first language of my life|
-|Java|`2`||
-|Python|`2`|On my school|
-|JS|`2`|It's...It's....um....|
-|Node.js|`1`||
-|SQL|`1`||
- 
+<table border="0">
+	<tr>
+    <td>
+      <table border="0">
+        <th>Group</th>
+        <th>Description</th>
+        <tr>
+          <td>5</td>
+          <td>It's lie</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Can participate in the project</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Just hobby</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>In learning</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Wow, I can print `Hello world`!</td>
+        </tr>
+      </table>
+    </td>
+	  <td>
+      <table border="0">
+        <th>Language</th>
+        <th>Group</th>
+        <th>Etc...</th>
+        <tr>
+          <td>C</td>
+          <td>2</td>
+          <td>Standard C, based on linux kernel</td>
+        </tr>
+        <tr>
+          <td>C++</td>
+          <td>2</td>
+          <td>Learning in my Univ.</td>
+        </tr>
+        <tr>
+          <td>C# .Net</td>
+          <td>3</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>VB. Net</td>
+          <td>3</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>VB</td>
+          <td>3</td>
+          <td>The first language in my life</td>
+        </tr>
+        <tr>
+          <td>Java</td>
+          <td>2</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>2</td>
+          <td>Learning in my Univ.</td>
+        </tr>
+        <tr>
+          <td>JS</td>
+          <td>2</td>
+          <td>Okay, Now I can use another API... in single project</td>
+        </tr>
+        <tr>
+          <td>Node.js</td>
+          <td>1</td>
+          <td>Newbie</td>
+        </tr>
+        <tr>
+          <td>SQL</td>
+          <td>1</td>
+          <td>Newbie</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
   
 [![Homin's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaros7)](https://github.com/anuraghazra/github-readme-stats)
