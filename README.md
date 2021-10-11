@@ -1,5 +1,5 @@
 ## Who is Homin Rhee?
-**Name**: 이호민 / Homin Rhee / 李昊珉 (a.k.a iCAROS7, hominlab)   
+**Name**: 이호민 / Homin Rhee / 李昊珉 (a.k.a iCAROS7, hominlab, iHomin)   
 **Job**: A student in department of computer science and engineering at Sungkonghoe Univ from 2017 years   
 **Location**: Seoul, Republic of Korea   
 **Site**: https://minnote.net   
