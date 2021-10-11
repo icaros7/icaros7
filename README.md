@@ -1,4 +1,4 @@
-## Who is Homin Rhee?
+## Who is Homin Rhee? 🤔
 **Name**: 이호민 / Homin Rhee / 李昊珉 (a.k.a iCAROS7, hominlab, iHomin)   
 **Job**: A student in department of computer science and engineering at Sungkonghoe Univ from 2017 years   
 **Location**: Seoul, Republic of Korea   
@@ -10,19 +10,19 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white"/> <img src="https://img.shields.io/badge/Chrome%20OS-4285F4?logo=googlechrome&logoColor=white"/>
 
 
-## What is his favorite thing?
+## What is his favorite thing? 🤗
 ```
 #include <ARM>
 using Linux.Debian;
 ```
 
-## What is his motto?
+## What is his motto? 😤
 ```
 @"First of the all, continue to delude yourself"
 @"무엇보다 자기 자신을 먼저 속여라"
 ```
 
-## SKill Group
+## Skill Group 🤫
 [![Homin's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaros7)](https://github.com/anuraghazra/github-readme-stats)
 
 <table border="0">
@@ -73,9 +73,9 @@ using Linux.Debian;
           <td></td>
         </tr>
         <tr>
-          <td>Assembly (x86, ARM)</td>
+          <td>etc</td>
           <td>2</td>
-          <td></td>
+          <td>Assem, Basic...</td>
         </tr>
       </table>
     </td>
