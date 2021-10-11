@@ -3,7 +3,7 @@
 **Job**: A student in department of computer science and engineering at Sungkonghoe Univ from 2017 years   
 **Location**: Seoul, Republic of Korea   
 **Site**: https://minnote.net   
-**GPG Fingerprint**: `1D94 A708 6346 FBF1 1DD1  6E1F 4957 8AFE D221 9C6A` // Check it out at [minnote.net/gpg/](https://minnote.net/gpg/)
+**GPG Fingerprint**: `1D94 A708 6346 FBF1 1DD1  6E1F 4957 8AFE D221 9C6A` // Check it out at [minnote.net/gpg/](https://minnote.net/gpg)
 
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
 
@@ -13,7 +13,7 @@
 ## What is his favorite thing? 🤗
 ```
 #include <ARM>
-using Linux.Debian;
+using Linux.Kernel.[Debian, Ubuntu, Android];
 ```
 
 ## What is his motto? 😤
