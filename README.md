@@ -1,20 +1,23 @@
 ## Who is Homin Rhee? 🤔
-**Name**: 이호민 / Homin Rhee / 李昊珉 (a.k.a iCAROS7, hominlab, iHomin)   
-**Job**: A student in department of computer science and engineering at Sungkonghoe Univ from 2017 years   
-**Location**: Seoul, Republic of Korea   
-**Site**: https://minnote.net   
-**GPG Fingerprint**: `1D94 A708 6346 FBF1 1DD1  6E1F 4957 8AFE D221 9C6A` // Check it out at [minnote.net/gpg/](https://minnote.net/gpg)
 
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
+> 국내에서 취약점 분석, 임베디드 개발 및 정보보안 컨설팅에 관심 있는 대학생 입니다😀
 
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white"/> <img src="https://img.shields.io/badge/Chrome%20OS-4285F4?logo=googlechrome&logoColor=white"/>
+- **이름**: 이호민 / Homin Rhee / 李昊珉 (a.k.a iCAROS7, hominlab, iHomin)
+- **직업**: 성공회대학교 정보통신/컴퓨터공학 학사 학생 (2017.03. ~ .)
+- **위치**: Seoul, Republic of Korea   
+- **Site**: https://minnote.net   
+- **GPG Fingerprint**: `1D94 A708 6346 FBF1 1DD1  6E1F 4957 8AFE D221 9C6A` // Check it out at [minnote.net/gpg/](https://minnote.net/gpg)
+
+## What is his tech keywords?
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-02456C?logo=pastebin&logoColor=white"/>   
+<img src="https://img.shields.io/badge/arm-0091BD?logo=arm&logoColor=white"/> <img src="https://img.shields.io/badge/LinuxKernel-FCC624?logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/1DayAnalysis-1A1A1A?logo=hackaday&logoColor=white"/>
 
 
 ## What is his favorite thing? 🤗
-```
-#include <ARM>
-using Linux.Kernel.[Debian, Ubuntu, Android];
-```
+- arm, aarch64 기반 SoC 시스템 엔지니어링
+- 신규 Linux 커널 취약점 분석 및 제보 기여
+- ARM 기반 1-Day 커널 취약점 분석
+
 
 ## What is his motto? 😤
 ```
@@ -22,88 +25,4 @@ using Linux.Kernel.[Debian, Ubuntu, Android];
 @"무엇보다 자기 자신을 먼저 속여라"
 ```
 
-## Skill Group 🤫
 [![Homin's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaros7)](https://github.com/anuraghazra/github-readme-stats)
-
-<table border="0">
-  <tr>
-    <td>
-      <table border="0">
-        <th>Language</th>
-        <th>Group</th>
-        <th>Etc...</th>
-        <tr>
-          <td>C</td>
-          <td>2</td>
-          <td>Standard C, based on linux kernel</td>
-        </tr>
-        <tr>
-          <td>C++</td>
-          <td>2</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>C# .Net</td>
-          <td>3</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>VB. Net</td>
-          <td>3</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>VB</td>
-          <td>3</td>
-          <td>The first language in my life</td>
-        </tr>
-        <tr>
-          <td>Java</td>
-          <td>2</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Python</td>
-          <td>2</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>R</td>
-          <td>2</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>etc</td>
-          <td>2</td>
-          <td>Assem, Basic...</td>
-        </tr>
-      </table>
-    </td>
-     <td>
-       <table border="0">
-        <th>Group</th>
-        <th>Description</th>
-        <tr>
-          <td>5</td>
-          <td>Do you buy that?? ;D</td>
-        </tr>
-        <tr>
-          <td>4</td>
-          <td>Can participate in the project</td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td>Just hobby</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>In learning</td>
-        </tr>
-        <tr>
-          <td>1</td>
-          <td>Wow, I can print `Hello world`!</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
